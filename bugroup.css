@@ -1,0 +1,49 @@
+p {
+    text-align: justify;
+    font-size: 16px;
+}
+.tedxblack {
+    font-family: Helvetica;
+    font-size: 40px;
+}
+.tedxredcolor {
+    color: #ff2b06;
+    font-weight: bold;
+}
+.tdr {
+    color: #ff2b06;
+}
+.tedxred {
+    color: #ff2b06;
+    font-family: Helvetica;
+    font-size: 40px;
+    font-weight: bold;
+}
+.tedxx {
+    color: #ff2b06;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    vertical-align: 13px;
+}
+#footer {
+    padding-top: 60px;
+    background-color: #f5f5f5;
+}
+h4 {
+    font-weight: bold;
+}
+body {
+    display: block;
+    height: 100%;
+}
+div {
+    display: block;   
+}
+
+#wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60px;
+}
