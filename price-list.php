@@ -8,83 +8,83 @@ require("head.php");
 <table>
 	<thead>
 		<tr>
-			<td><b>услуга</b></td>
-			<td><b>период</b></td>
-			<td><b>УСНО Д=6%</b></td>
-			<td><b>УСНО Д-Р=5%</b></td>
-			<td><b>ЕНВД</b></td>
-			<td><b>ОСНО</b></td>
+			<td class="ct"><b>Услуга</b></td>
+			<td class="ct"><b>Период</b></td>
+			<td class="ct"><b>УСНО&nbsp;Д=6%</b></td>
+			<td class="ct"><b>УСНО&nbsp;Д&nbsp;-&nbsp;Р=5%</b></td>
+			<td class="ct"><b>ЕНВД</b></td>
+			<td class="ct"><b>ОСНО</b></td>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>Первичная консультация</td>
 			<td></td>
-			<td>бесплатно</td>
-			<td>бесплатно</td>
-			<td>бесплатно</td>
-			<td>бесплатно</td>
+			<td class="ct">бесплатно</td>
+			<td class="ct">бесплатно</td>
+			<td class="ct">бесплатно</td>
+			<td class="ct">бесплатно</td>
 		</tr>
 		<tr>
 			<td>Нулевая отчетность</td>
 			<td></td>
-			<td>2 500</td>
-			<td>2 500</td>
+			<td class="ct">2 500</td>
+			<td class="ct">2 500</td>
 			<td></td>
-			<td>3 500</td>
+			<td class="ct">3 500</td>
 		</tr>
 		<tr>
 			<td>От 1 до 25 документов (номенклатурных единиц) (при наличии сотрудников за каждый лицевой счет 500 руб./чел.)</td>
-			<td>месяц</td>
-			<td>1 800</td>
-			<td>2 400</td>
-			<td>1 800</td>
-			<td>3 600</td>
+			<td class="ct">месяц</td>
+			<td class="ct">1 800</td>
+			<td class="ct">2 400</td>
+			<td class="ct">1 800</td>
+			<td class="ct">3 600</td>
 		</tr>
 		<tr>
 			<td>От 26 до 50 документов (при наличии сотрудников за каждый лицевой счет 500 руб./чел.)</td>
-			<td>месяц</td>
-			<td>3 000</td>
-			<td>3 600</td>
-			<td>3 000</td>
-			<td>5 400</td>
+			<td class="ct">месяц</td>
+			<td class="ct">3 000</td>
+			<td class="ct">3 600</td>
+			<td class="ct">3 000</td>
+			<td class="ct">5 400</td>
 		</tr>
 		<tr>
 			<td>От 51 до 100 документов (при наличии сотрудников за каждый лицевой счет 500 руб./чел.)</td>
-			<td>месяц</td>
-			<td>5 400</td>
-			<td>7 200</td>
-			<td>5 400</td>
-			<td>9 700</td>
+			<td class="ct">месяц</td>
+			<td class="ct">5 400</td>
+			<td class="ct">7 200</td>
+			<td class="ct">5 400</td>
+			<td class="ct">9 700</td>
 		</tr>
 		<tr>
 			<td>От 101 до 200 документов (при наличии сотрудников за каждый лицевой счет 500 руб./чел.)</td>
-			<td>месяц</td>
-			<td>9 000</td>
-			<td>10 800</td>
-			<td>9 000</td>
-			<td>13 300</td>
+			<td class="ct">месяц</td>
+			<td class="ct">9 000</td>
+			<td class="ct">10 800</td>
+			<td class="ct">9 000</td>
+			<td class="ct">13 300</td>
 		</tr>
 		<tr>
 			<td>От 101 до 200 документов (при наличии сотрудников за каждый лицевой счет 500 руб./чел.)</td>
-			<td>месяц</td>
-			<td>9 000</td>
-			<td>10 800</td>
-			<td>9 000</td>
-			<td>13 300</td>
+			<td class="ct">месяц</td>
+			<td class="ct">9 000</td>
+			<td class="ct">10 800</td>
+			<td class="ct">9 000</td>
+			<td class="ct">13 300</td>
 		</tr>
 		<tr>
 			<td>От 201 до 300 документов (при наличии сотрудников за каждый лицевой счет 500 руб./чел.)</td>
-			<td>месяц</td>
-			<td>13 300</td>
-			<td>16 900</td>
-			<td>13 300</td>
-			<td>20 500</td>
+			<td class="ct">месяц</td>
+			<td class="ct">13 300</td>
+			<td class="ct">16 900</td>
+			<td class="ct">13 300</td>
+			<td class="ct">20 500</td>
 		</tr>
 		<tr>
 			<td>Свыше 300 документов</td>
-			<td>месяц</td>
-			<td colspan="4" style="text-align: center;">стоимость договорная</td>
+			<td class="ct">месяц</td>
+			<td colspan="4" class="ct">стоимость договорная</td>
 		</tr>
 	</tbody>
 </table>

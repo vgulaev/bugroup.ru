@@ -55,3 +55,7 @@ table, tr, td {
 #maincontainer {
     padding-bottom: 40px;
 }
+/*center text*/
+.ct {
+    text-align: center;
+}
