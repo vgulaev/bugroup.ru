@@ -3,7 +3,7 @@ $currentmenuitem = "1";
 require("head.php");
 ?>
 
-<div class="container">
+<div id = "maincontainer" class="container">
 <p><b>Для Вас:</b></p>
 <ul>
 	<li>Ведение бухгалтерского учета</li>

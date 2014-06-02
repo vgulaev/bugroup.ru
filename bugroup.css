@@ -52,3 +52,6 @@ table, tr, td {
     bottom: 0px;
     width: 100%;
 }
+#maincontainer {
+    padding-bottom: 40px;
+}
